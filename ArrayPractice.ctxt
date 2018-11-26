@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArrayPractice
+comment1.params=array
+comment1.target=void\ printIntArray(int[])
+comment2.params=array
+comment2.target=void\ printStringArray(java.lang.String[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
